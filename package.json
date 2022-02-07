@@ -1,4 +1,5 @@
 {
+  "type": "module"
   "name": "rrule",
   "version": "2.6.8",
   "description": "JavaScript library for working with recurrence rules for calendar dates.",
